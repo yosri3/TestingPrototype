@@ -1,0 +1,13 @@
+{
+"companyName": "RedwindGames",
+"productName": "SeraAndBushly",
+"dataUrl": "39cde0169cbe9f8f41b9fb4a18ac3053.unityweb",
+"wasmCodeUrl": "38deed01c0bcb5343eed8702538cf2f9.unityweb",
+"wasmFrameworkUrl": "462b2900dfef7cfe945c150be743da7b.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#586F93",
+"cacheControl": {"default": "must-revalidate"}
+}
