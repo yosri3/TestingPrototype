@@ -1,0 +1,23 @@
+		#header {
+			background: url(https://i.vgy.me/s4YFWu.png) center center;
+			color: aliceblue;
+		}
+		.bg-info {
+    /*background-color: #000!important;*/
+		}
+		.carousel-inner{
+			width:70%; 
+			height: 18rem!important;
+		}
+		.carousel-item{
+			height: 100%;
+		}
+		.carouselCenterClass{
+			height: 100%; 
+			width: auto;
+			
+		}
+		.fasCarouselColor{
+			color: #17a2b8
+		}
+		}
