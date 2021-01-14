@@ -1,4 +1,4 @@
-function makeModal (modalID,pageLink,image,video,title,description){
+function makeModal (modalID,pageLink,image,video,title,description,buttonText){
 	var carouselID = "carousel" + modalID;
 	var i;
 	var carouselData = "";
@@ -69,7 +69,7 @@ function makeModal (modalID,pageLink,image,video,title,description){
 								<div class="container">\
 									<div class="row justify-content-around">\
 										<div class="col-md-0">\
-											<a href="'+pageLink+'" class="btn btn-outline-success">Play</a>\
+											<a href="'+pageLink+'" class="btn btn-outline-success">'+buttonText+'</a>\
 										</div>\
 									</div>\
 								</div>\
