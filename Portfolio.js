@@ -2,7 +2,7 @@ function navBar (){
 	document.write('\
 		<nav class="navbar bg-info navbar-dark">\
 		<div>\
-			<a href="http://redwindgames.weebly.com/" class="navbar-brand"><i class="fas fa-gamepad"></i> Portfolio Yosri Jerbi</a>\
+			<a href="index.html" class="navbar-brand"><i class="fas fa-gamepad"></i> Portfolio Yosri Jerbi</a>\
 		</div>\
 	</nav>\
 	');
