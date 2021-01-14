@@ -49,6 +49,7 @@ function makeModal (modalID,pageLink,image,video,title,description,buttonText){
 													'+vidCarouselData+'\
 													'+imgCarouselData+'\
 												</div>\
+												<br>\
 												<a class="carousel-control-prev" href="#'+carouselID+'" role="button" data-slide="prev">\
 													<span class="fas fa-angle-left fa-3x fasCarouselColor" aria-hidden="true"></span>\
 													<span class="sr-only">Previous</span>\
