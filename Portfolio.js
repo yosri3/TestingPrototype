@@ -1,8 +1,9 @@
 function navBar (){
 	document.write('\
 		<nav class="navbar bg-info navbar-dark">\
-		<div>\
+		<div style="width: 100%;">\
 			<a href="index.html" class="navbar-brand"><i class="fas fa-gamepad"></i> Portfolio Yosri Jerbi</a>\
+			<a href="contact.html" class="navbar-brand float-right"><i class="fas fa-address-card"></i> Contact me</a>\
 		</div>\
 	</nav>\
 	');
